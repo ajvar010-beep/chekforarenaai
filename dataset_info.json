@@ -1,0 +1,11 @@
+{
+  "version": "2026-09-30-reduced",
+  "train": 25956,
+  "test": 5440,
+  "images": 31396,
+  "selected_days": 154,
+  "selection": "Whole days; all original frames and tiles for each selected day retained.",
+  "image_ids_unchanged": true,
+  "image_pixels_unchanged": true,
+  "additional_within_day_gaps": 0
+}
